@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    font-family: 'Roboto Mono', monospace;
+}
+#header_div{
+    background-color: rgb(91, 101, 96);
+    padding:10px
+}
+#body{
+    background-color: rgb(140, 168, 140);
+}
+button{
+    margin-top:20px;
+    width:15%;
+    height: 40px;
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(179, 238, 238);
+    border-radius: 15px;
+}
